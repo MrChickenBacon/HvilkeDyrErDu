@@ -1,0 +1,7 @@
+C:\KODING\HvilkeDyrErDu\HvilkeDyrErDu\bin\Debug\HvilkeDyrErDu.exe.config
+C:\KODING\HvilkeDyrErDu\HvilkeDyrErDu\bin\Debug\HvilkeDyrErDu.exe
+C:\KODING\HvilkeDyrErDu\HvilkeDyrErDu\bin\Debug\HvilkeDyrErDu.pdb
+C:\KODING\HvilkeDyrErDu\HvilkeDyrErDu\obj\Debug\HvilkeDyrErDu.csprojAssemblyReference.cache
+C:\KODING\HvilkeDyrErDu\HvilkeDyrErDu\obj\Debug\HvilkeDyrErDu.csproj.CoreCompileInputs.cache
+C:\KODING\HvilkeDyrErDu\HvilkeDyrErDu\obj\Debug\HvilkeDyrErDu.exe
+C:\KODING\HvilkeDyrErDu\HvilkeDyrErDu\obj\Debug\HvilkeDyrErDu.pdb
